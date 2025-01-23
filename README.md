@@ -102,14 +102,6 @@ Me chamo Gabriel dos Santos, tenho 16 anos e sou natural da Paraiba. Curso o ens
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="My SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-/>
 
 <br/>
 <br/>
