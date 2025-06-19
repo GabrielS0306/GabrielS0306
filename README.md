@@ -5,15 +5,13 @@
 Me chamo Gabriel dos Santos, tenho 16 anos e sou natural da Paraiba. Curso o ensino médio no CPMPB, curso um curso de técnico em informática para internt. Sou apaixonado por tecnologia. Também tenho um perfil no instagram "[Gabriel.s](https://www.instagram.com/biel_.0834/?next=%2F)".
 
 <p align="left">
-    <a 
-    href="https://github.com/GabrielS0306?tab=followers"
-    >
+    <a href="https://github.com/GabrielS0306?tab=followers">
         <img 
         alt="Seguidores" 
         title="Siga-me no Github" 
         src="https://custom-icon-badges.demolab.com/github/followers/GabrielS0306?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Siga-me no github&logoColor=white"
         />
-        </a>
+    </a>
     <a 
     href="https://github.com/GabrielS0306?tab=repositories&sort=stargazers"
     >
