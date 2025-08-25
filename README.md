@@ -2,7 +2,7 @@
 
 **`Estudante de Programação`**
 
-Me chamo Gabriel dos Santos, tenho 16 anos e sou natural da Paraiba. Curso o ensino médio no CPMPB, curso um curso de técnico em informática para internt. Sou apaixonado por tecnologia. Também tenho um perfil no instagram "[Gabriel.s](https://www.instagram.com/biel_.0834/?next=%2F)".
+Me chamo Gabriel dos Santos, tenho 17 anos e sou natural da Paraiba. Curso o ensino médio no CPMPB, curso um curso de técnico em informática para internt. Sou apaixonado por tecnologia. Também tenho um perfil no instagram "[Gabriel.s](https://www.instagram.com/biel_.0834/?next=%2F)".
 
 <p align="left">
     <a 
