@@ -72,10 +72,3 @@
 ###
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielS0306&show_icons=true&theme=dark)
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielS0306&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
